@@ -1,9 +1,7 @@
-### bienvenidos a
+### WELCOME
+cuidado con lo que buscas
 
-<h1 align="center">informacion  <img src="https://media.giphy.com/media/PmXsJnwzEebcoO88HN/giphy.gif" width="45px"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/mj6caeKv2YYNc4B3Sx/giphy.gif" width="300" height="300"  /></p>
-
+<h1 align="center">hola  <img src="https://media.giphy.com/media/PmXsJnwzEebcoO88HN/giphy.gif" width="45px"></h1>
 
 ---
 lenguajes utilizados
@@ -22,30 +20,9 @@ lenguajes utilizados
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro911pa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+### ✍️ colaboraciones : 
+- [Donaciones por paypal](https://paypal.me/AlejandroP911?country.x=MX&locale.x=es_XC)
 
-### ✍️ Blog Posts : 
-- [no hay ](https://www.youtube.com/watch?v=PyoRdu-i0AQ)
-<h3 align="east">pronto <img src="https://media.giphy.com/media/UAFNbGij1gpTbVnDqk/giphy.gif" width="50px"></h1>
+<p align="center"><img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="300" height="300"  /></p>
 
-<br />
-<div align="center">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</div>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
-<!--
-**alejandro911pa/alejandro911pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
