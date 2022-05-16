@@ -4,7 +4,7 @@ cuidado con lo que buscas
 <h1 align="center">hola  <img src="https://media.giphy.com/media/PmXsJnwzEebcoO88HN/giphy.gif" width="45px"></h1>
 
 ---
-lenguajes utilizados
+lenguaje mas utilizados
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
@@ -16,13 +16,14 @@ lenguajes utilizados
 ---
 
 ### :fire: estadisticas :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro911pa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro911pa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=EC5E16&ring=22DD3F&fire=DD5D00&currStreakLabel=DD5D00)](https://git.io/streak-stats)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro911pa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### ✍️ colaboraciones : 
 - [Donaciones por paypal](https://paypal.me/AlejandroP911?country.x=MX&locale.x=es_XC)
+- [Twitter](https://twitter.com/elto_mate2021)
 
 <p align="center"><img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="300" height="300"  /></p>
 
