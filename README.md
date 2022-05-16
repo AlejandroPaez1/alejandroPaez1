@@ -22,8 +22,8 @@ lenguaje mas utilizados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro911pa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### ✍️ colaboraciones : 
-- [Donaciones por paypal](https://paypal.me/AlejandroP911?country.x=MX&locale.x=es_XC)
-- [Twitter](https://twitter.com/elto_mate2021)
+- <a href="https://paypal.me/AlejandroP911?country.x=MX&locale.x=es_XC"> pay<img src="https://media.giphy.com/media/L90fGYceoLTtqFpohX/giphy.gif" alt="Paypal" width="40" height="40"></a>
+- <a href="https://twitter.com/elto_mate2021"><img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" alt="Twitter" width="30" height="30"></a>
 
 <p align="center"><img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="300" height="300"  /></p>
 
