@@ -1,5 +1,5 @@
 ### Hi
-##github para proyectos escolares 
+#github para proyectos escolares 
 
 <!--
 **alejandro911pa/alejandro911pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
