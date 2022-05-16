@@ -1,17 +1,15 @@
-### Hi
-github para proyectos escolares 
+### bienvenidos a
 
-<h1 align="center">hola... <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="50px"></h1>
+<h1 align="center">informacion  <img src="https://media.giphy.com/media/PmXsJnwzEebcoO88HN/giphy.gif" width="45px"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/CdS0oLxpskdqtyp95L/giphy.gif" width="300" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/mj6caeKv2YYNc4B3Sx/giphy.gif" width="300" height="300"  /></p>
 
 
 ---
-especialidades
+lenguajes utilizados
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
@@ -19,7 +17,7 @@ especialidades
 
 ---
 
-### :fire: My Stats :
+### :fire: estadisticas :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro911pa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
