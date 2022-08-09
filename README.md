@@ -19,7 +19,7 @@ lenguaje mas utilizados
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro911pa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=EC5E16&ring=22DD3F&fire=DD5D00&currStreakLabel=DD5D00)](https://git.io/streak-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro911pa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 ### ✍️ colaboraciones : 
