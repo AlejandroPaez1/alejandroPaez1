@@ -20,6 +20,7 @@ lenguaje mas utilizados
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro911pa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ### ✍️ colaboraciones : 
 - <a href="https://paypal.me/AlejandroP911?country.x=MX&locale.x=es_XC"><img src="https://media.giphy.com/media/L90fGYceoLTtqFpohX/giphy.gif" alt="Paypal" width="40" height="40">paypal donaciones </a>
