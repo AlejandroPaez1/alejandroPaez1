@@ -1,8 +1,5 @@
 ### WELCOME
 Mañana si me duermo mas temprano
-
-<h1 align="center">hola  <img src="https://media.giphy.com/media/PmXsJnwzEebcoO88HN/giphy.gif" width="45px"></h1>
-
 ---
 lenguaje mas utilizados
 <div>
@@ -14,7 +11,7 @@ lenguaje mas utilizados
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" title="Dart" **alt="Dart" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
 
 
 </div>
@@ -22,12 +19,12 @@ lenguaje mas utilizados
 
 ---
 
-### :fire: estadisticas :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro911pa&show_icons=true&theme=dark)
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro911pa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### :fire: estadisticas :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro911pa&show_icons=true&theme=dark)
 
 
 ---
