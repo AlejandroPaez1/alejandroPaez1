@@ -1,7 +1,7 @@
 ### WELCOME
-Mañana si me duermo mas temprano
+feedback
 ---
-lenguaje mas utilizados
+lenguaje conocidos
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="C" width="40" height="40"/>
