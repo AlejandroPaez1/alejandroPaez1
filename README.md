@@ -1,5 +1,4 @@
 ### WELCOME
-feedback
 ---
 lenguaje conocidos
 <div>
@@ -29,9 +28,13 @@ lenguaje conocidos
 
 ---
 ### ✍️ colaboraciones : 
-- <a href="https://paypal.me/AlejandroP911?country.x=MX&locale.x=es_XC"><img src="https://media.giphy.com/media/L90fGYceoLTtqFpohX/giphy.gif" alt="Paypal" width="40" height="40">paypal donaciones </a>
-- <a href="https://twitter.com/elto_mate2021"><img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" alt="Twitter" width="30" height="30"> Twitter</a>
 
-<p align="center"><img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="300" height="300"  /></p>
+<a href="https://twitter.com/elto_mate2021">📱 Twitter</a>
+
+<a href="https://paypal.me/AlejandroP911?country.x=MX&locale.x=es_XC"> 💰Pay pal</a>
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
 
 
