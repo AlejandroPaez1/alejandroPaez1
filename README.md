@@ -19,11 +19,11 @@ lenguaje conocidos
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroPaez1pa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroPaez1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### :fire: estadisticas :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroPaez1pa&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroPaez1&show_icons=true&theme=dark)
 
 
 ---
