@@ -1,5 +1,7 @@
 ### WELCOME
 ---
+Estudiante de ingeniería de software con experiencia en proyectos de programación en Java y C. Apasionado por la resolución de problemas y el aprendizaje de nuevas tecnologías. Actualmente buscando oportunidades para colaborar en proyectos de código abierto.
+
 lenguaje conocidos
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
