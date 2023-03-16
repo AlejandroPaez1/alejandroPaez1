@@ -28,7 +28,7 @@ lenguaje conocidos
 
 
 ---
-### ✍️ colaboraciones : 
+### ✍️ contacto: 
 
 <a href="https://twitter.com/elto_mate2021">📱 Twitter</a>
 
