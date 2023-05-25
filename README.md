@@ -1,4 +1,4 @@
-### WELCOME
+### Bienvenido 
 ---
 Estudiante de ingeniería de software con experiencia en proyectos de programación en Java, js y python asi como la parte front y back. Apasionado por la resolución de problemas y el aprendizaje de nuevas tecnologías. Actualmente buscando oportunidades para colaborar en proyectos de código abierto.
 
