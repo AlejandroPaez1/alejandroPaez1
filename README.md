@@ -24,11 +24,6 @@ lenguaje conocidos
 
 
 ---
-### :fire: estadisticas :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroPaez1&show_icons=true&theme=dark)
-
-
----
 ### ✍️ contacto: 
 
 <a href="https://twitter.com/elto_mate2021">📱 Twitter</a>
