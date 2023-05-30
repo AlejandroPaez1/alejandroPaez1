@@ -26,7 +26,7 @@ lenguaje conocidos
 ---
 ### ✍️ contacto: 
 
-<a href="https://twitter.com/elto_mate2021">📱 Twitter</a>
+<a href="https://twitter.com/PaezLandro">📱 Twitter</a>
 
 <a href="https://paypal.me/AlejandroP911?country.x=MX&locale.x=es_XC"> 💰Pay pal</a>
 
