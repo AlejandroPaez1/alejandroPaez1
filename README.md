@@ -25,19 +25,12 @@ Software engineering student with experience in programming projects using Java,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPaez1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- ❓ Ask me about anything related to Front End, teaching and learning  
-  
 
-- ⚡ Fun fact: I love cats 🥰  
-
-
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 60%" />
 </div>  
-
-
 </td></tr></table>  
 
 <br>
