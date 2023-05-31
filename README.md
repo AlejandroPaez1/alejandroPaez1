@@ -1,4 +1,7 @@
 # About me
+
+I'm a Software Developer Engineer from Chiapas, Mexico.
+
 Software engineering student with experience in programming projects using Java, JavaScript, and Python, as well as front-end and back-end development. Passionate about problem-solving and learning new technologies. Currently seeking opportunities to collaborate on open-source projects.
 
 ### Languages Used
