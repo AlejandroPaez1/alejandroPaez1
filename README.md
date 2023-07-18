@@ -39,14 +39,15 @@ Software engineering student with experience in programming projects using Java,
 
 <br>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AlejandroPaez1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 ### Profile Views
 counting of visitors to this page in this section.
 
 ![](https://count.getloli.com/get/@alejandropaez1.github.readme)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlejandroPaez1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
