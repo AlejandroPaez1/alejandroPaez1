@@ -25,7 +25,7 @@ Software engineering student with experience in programming projects using Java,
 
 <table><tr><td valign="top" width="50%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPaez1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPaez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
